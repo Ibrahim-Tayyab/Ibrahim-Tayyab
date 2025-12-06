@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Tayyab&show_icons=true&theme=radical&hide_border=true&bg_color=141321" height="180" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Tayyab&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="180" />
+ 
 </div>
 
 <br/>
@@ -46,10 +46,8 @@
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/ibrahim-tayyab">
+  <a href="https://www.linkedin.com/in/ebrahim-tayyab/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/923000000000">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+
 </div>
