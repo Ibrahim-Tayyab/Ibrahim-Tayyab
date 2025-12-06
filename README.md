@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ibrahim%20Tayyab&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20x%20AI%20Agent%20Developer&descAlignY=55&descSize=25" alt="Header" />
 
-<!--
-**Ibrahim-Tayyab/Ibrahim-Tayyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+👋+I'm+Ibrahim+Tayyab;Building+Smart+AI+Systems+🤖;Crafting+Modern+Web+Apps+🚀;Always+Pushing+Code+💻" alt="Typing SVG" />
+  </a>
 
-Here are some ideas to get you started:
+  <br/>
+  <img src="https://github-profile-trophies.vercel.app/?username=Ibrahim-Tayyab&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack & Arsenals
+
+<div align="center">
+  
+  | **AI & Automation** | **Web Development** | **Tools** |
+  |:---:|:---:|:---:|
+  | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /> |
+  
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Tayyab&show_icons=true&theme=radical&hide_border=true&bg_color=141321" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Tayyab&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Tayyab&theme=radical&hide_border=true&background=141321" alt="Streak" />
+  <br/><br/>
+  <img src="https://github-contribution-grid-snake.vercel.app/only-svg?username=Ibrahim-Tayyab&color_snake=orange&color_dots=#bfd6f6" />
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/ibrahim-tayyab">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/923000000000">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
