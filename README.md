@@ -41,7 +41,7 @@
   
   <br/><br/>
   
-  <img src="https://github-contribution-grid-snake.vercel.app/only-svg?username=Ibrahim-Tayyab&color_snake=orange&color_dots=#bfd6f6" alt="Snake Animation" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=141321&hideBorder=true" alt="Developer Joke" />
 </div>
 
 ---
