@@ -28,11 +28,7 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Tayyab&show_icons=true&theme=radical&hide_border=true&bg_color=141321" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Tayyab&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="180" />
-</div>
+
 
 <br/>
 
