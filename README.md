@@ -33,7 +33,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Tayyab&theme=radical&hide_border=true&background=141321" alt="Streak" />
+
   
   <br/><br/>
   
